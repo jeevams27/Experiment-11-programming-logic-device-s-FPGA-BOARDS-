@@ -6,8 +6,8 @@ To understand the standard procedure to interface an FPGA board and flashing met
 ### SOFTWARE REQUIRED:   
 Quartus prime 
 ```
-Developed by: Paul Andrew D
-Reg.no: 212221230075
+Developed by: JEEVA MS
+Reg.no: 212221230040
 ```
 
 ### Procedure :
